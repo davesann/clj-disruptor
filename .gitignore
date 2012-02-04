@@ -1,0 +1,13 @@
+/pom.xml
+*jar
+/lib
+/classes
+/native
+/.lein-failures
+/checkouts
+/.lein-deps-sum
+/scratch
+/src-java
+/test
+/.classpath
+/.project
