@@ -110,8 +110,6 @@
         (recur (unchecked-add 1 i))
         )))
 
-
-
 (defn go 
   "run the example"
   ([iterations] (go iterations default-ring-size default-num-event-processors))

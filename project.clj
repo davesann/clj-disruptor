@@ -5,5 +5,5 @@
                  ]
   :dev-dependencies [[lein-eclipse "1.0.0"]
                      [marginalia "0.7.0-SNAPSHOT"]]
-  :java-source-path "src-java"
+  ;:java-source-path "src-java"
   )
